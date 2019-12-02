@@ -1,5 +1,6 @@
 # Practice-Example-2
 
+Python Code (Visual Studio)
 print(" /t 9th Marksheet ")
 num  =int(input('Enter value Marks Maths     :'))
 num1 =int(input('Enter value Marks Urdu      :'))
